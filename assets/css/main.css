@@ -1,0 +1,11 @@
+.post-content {
+  max-width: 90%;
+  word-wrap:break-word;
+  padding: 0px 0px 0px 20px;
+}
+
+blockquote {
+  background: #fafafa;
+  border-left: 3px solid #ccc;
+  padding: 1px;
+}
