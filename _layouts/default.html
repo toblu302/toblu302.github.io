@@ -1,10 +1,15 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css">
+        <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css">
         <title>{{ page.title }}</title>
     </head>
     <body>
-    {{ content }}
+            <div id='header'>
+                <b>{{ site.title }}</b>
+            </div>
+            <div id='content'>
+                    {{ content }}
+            </div>
     </body>
 </html>

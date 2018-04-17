@@ -1,0 +1,29 @@
+@import url('monokai.css');
+
+body {
+  margin: 0px;
+}
+
+#header {
+  background-color: #ff5500;
+  text-align: left;
+  padding: 5px;
+}
+
+#content {
+  width: 75%;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+#post-header {
+  text-align: center;
+  margin: 0px 0px 0px 5px;
+}
+
+#post-content {
+  margin: 0px 0px 0px 5px;
+  padding: 0px 0px 0px 5px;
+  word-wrap:break-word;
+}
+
