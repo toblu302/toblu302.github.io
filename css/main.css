@@ -6,11 +6,10 @@ body {
 
 #header {
   background-color: #ff5500;
-  text-align: left;
   padding: 5px;
 }
 
-#content {
+.content {
   width: 75%;
   margin-right: auto;
   margin-left: auto;
@@ -26,4 +25,3 @@ body {
   padding: 0px 0px 0px 5px;
   word-wrap:break-word;
 }
-
